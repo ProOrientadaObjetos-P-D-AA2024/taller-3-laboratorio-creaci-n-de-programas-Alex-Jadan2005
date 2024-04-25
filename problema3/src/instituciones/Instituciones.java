@@ -39,7 +39,7 @@ public class Instituciones {
                 + "Institucion: "+uno.getNombre()+ "\nTipo de Institucion: "
         +uno.getTipo()+"\nNumero de alumnos: "+uno.getNumalumnos()+"\nNumero de"
                 + "docentes: "+uno.getNumdocentes()+"\nNumero de sedes: "+uno.getSedes()+
-                "Gastos por estudiantes: "+uno.getSedes()+"\nPresupuesto: "+uno.getPresupuestos());
+                "\nGastos por estudiantes: "+uno.getSedes()+"\nPresupuesto: $"+uno.getPresupuestos());
         
     }
     
